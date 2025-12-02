@@ -152,6 +152,7 @@ Perform a balance update using a defined transaction type (plus, minus, bet, rol
 ---
 
 ## 7. Error Codes
+
 | Code  | Description                   |
 |-------|-------------------------------|
 | 30001 | Insufficient balance          |
@@ -186,6 +187,7 @@ if err != nil {
 ---
 
 ## 10. Changelog
-| Version | Description |
-|---------|-------------|
-| 1.0     | Initial documentation |
+
+| Version | Description          |
+|--------|-----------------------|
+| 1.0    | Initial documentation |
