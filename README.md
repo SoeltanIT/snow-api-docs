@@ -1,8 +1,6 @@
 # PAM / Wallet API Documentation
-Version: 0.1   
-Last Updated: 02 December 2025 
-Status: Draft
-
+Version: 0.1<br>
+Last Updated: 02 December 2025<br>
 ---
 
 ## Changelog
