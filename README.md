@@ -194,7 +194,7 @@ Uses token admin
 ## 6. Flow
 
 Case: When user plays game
-1. When Game Service get bet/win/lose request
+1. When Game Service get bet/win/lose request<br>
 ![alt text](Flow%20Game%20Service.png)
 
 
