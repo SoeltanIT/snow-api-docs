@@ -197,7 +197,7 @@ Uses token admin
 
 Case: When user plays game
 1. When Game Service get bet/win/lose request
-![alt text](image-1.png)
+![alt text](Flow%20Game%20Service.png)
 
 
 ---
